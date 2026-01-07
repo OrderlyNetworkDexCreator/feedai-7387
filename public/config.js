@@ -20,7 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Markets,Trading,Portfolio,Leaderboard,Rewards,Swap,Vaults",
   "VITE_CUSTOM_MENUS": "Buy $FEEDAI, https://creator.bid/agents/68d6e7374f7bd08e621a04e1",
-  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/feedaiagent",
   "VITE_DISCORD_URL": "",
